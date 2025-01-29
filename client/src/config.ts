@@ -1,5 +1,5 @@
 const config = {
-    endpoint: `http://localhost:3000/api/chat`,    
+    endpoint: `https://lang-chain-silk.vercel.app/api/chat`,    
 };
 
 export default config;

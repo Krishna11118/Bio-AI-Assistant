@@ -33,22 +33,22 @@ try {
   process.exit(1);
 }
 
-// Read company info from file with error handling
+// Read Bio info from file with error handling
 async function getCompanyInfo() {
   try {
     const filePath = join(__dirname, './data/bio.txt');
     const info = await fs.readFile(filePath, 'utf-8');
     if (!info || info.trim().length === 0) {
-      throw new Error('Company info file is empty');
+      throw new Error('Bio info file is empty');
     }
     return info;
   } catch (error) {
-    console.error('Error reading company info:', error);
-    throw new Error('Failed to load company information');
+    console.error('Error reading Bio info:', error);
+    throw new Error('Failed to load Bio information');
   }
 }
 
-// Format prompt with company info and question
+// Format prompt with Bio info and question
 async function createPrompt(companyInfo, question) {
   if (!question || question.trim().length === 0) {
     throw new Error('Question cannot be empty');
@@ -60,10 +60,10 @@ async function createPrompt(companyInfo, question) {
     ? companyInfo.slice(0, maxCompanyInfoLength) + '...'
     : companyInfo;
 
-  return `You are a helpful AI assistant for Krishna's. Use the following company information to answer questions:
+  return `You are a helpful AI assistant for Krishna's. Use the following Bio information to answer questions:
 ${truncatedInfo}
 Human Question: ${question}
-Provide a helpful, friendly, and concise response based on the company information above. If the information needed to answer the question isn't in the company details, politely say so and offer to help with something else.
+Provide a helpful, friendly, and concise response based on the Bio information above. If the information needed to answer the question isn't in the Bio details, politely say so and offer to help with something else.
 Response:`;
 }
 
@@ -104,7 +104,7 @@ app.post('/api/chat', async (req, res) => {
       });
     }
 
-    // Get company info and create prompt
+    // Get Bio info and create prompt
     const companyInfo = await getCompanyInfo();
     const prompt = await createPrompt(companyInfo, message);
     
