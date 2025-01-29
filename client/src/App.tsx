@@ -12,7 +12,7 @@ export default function App() {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "1",
-      content: "Hello! I'm the AmlgoLabs assistant. How can I help you today?",
+      content: "Hello! I'm the Krishna's assistant. How can I help you today?",
       role: "assistant",
       timestamp: new Date(),
     },
@@ -73,7 +73,7 @@ export default function App() {
       {/* Header */}
       <div className="flex items-center justify-center gap-4 p-4 bg-gray-900 shadow-lg">
         <MessageSquare className="text-blue-400" size={32} />
-        <h1 className="text-xl sm:text-2xl font-bold text-blue-400">AmlgoLabs Gen AI Assistant</h1>
+        <h1 className="text-xl sm:text-2xl font-bold text-blue-400">Krishna's Gen AI Assistant</h1>
       </div>
 
       {/* Chat Container */}

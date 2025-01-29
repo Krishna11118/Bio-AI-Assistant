@@ -1,0 +1,64 @@
+Krishna
+Full Stack Developer
++91-7318378893
+krishnasss365@gmail.com
+linkedin.com/in/krishna365
+github.com/krishna11118
+
+Summary:
+Full Stack Developer with 1+ years of experience specializing in MERN stack and AWS services (EC2, S3, Athena, Glue).
+Proficient in JavaScript, TypeScript, and SQL, with expertise in building scalable, secure applications for MNC clients.
+Hackathon winner, seeking better opportunities to enhance skills and career growth.
+
+Skills:
+Languages: JavaScript, Typescript, SQL, Bash, HTML, CSS
+Frameworks/Library: ReactJs, React Native, NextJs, NodeJs, ExpressJs, LangChain, WebSocket, ReduxJs, Tailwind
+Database: MongoDB, MySQL
+DevOps/Tools: Docker, Git, CI/CD (GitHub Actions, Jenkins), Postman, Jira
+Platforms/Cloud: AWS (EC2, S3, Athena, Glue), Redis, Linux, Digital Ocean
+
+Experience:
+Amlgo Labs (May 2024 - Present)
+Full Stack Developer (Full-time, Permanent) - Gurugram, Haryana
+• Developing and deploying a MERN stack and React Native application, working on both the frontend and backend, with a focus on designing and building web pages for a major MNC client.
+• Leveraged AWS services including EC2 for deployment, S3 for storage, and Athena for data analysis, while working with Node.Js, Express.Js, SQL, and MongoDB.
+• Collaborated closely with MNC Client and Development teams to fix the issues and performed the System Testing, Regression Testing for complete UI after fixing the issues which were reported by the testing team.
+
+Cyber Solvings (Jan 2024 - May 2024)
+Full Stack Developer (Full-time, Contractual) - Kurukshetra, Haryana
+• Developed a scalable backend using Node.js, Express.js, MongoDB, and React.js, ensuring secure APIs and real-time handling.
+• Integrated REST APIs with robust error handling on both client and server sides, ensuring seamless communication and reliability.
+• Collaborated with a team to create intuitive and dynamic responsive UIs using Tailwind CSS, JavaScript, React.js, and Material-UI.
+
+Unico Global (Jul 2023 - Dec 2023)
+Full Stack Developer (Internship) - Remote
+• MERN stack internship project, leveraging JavaScript, Node.js, React.js, and various Windows technologies for enhanced functionality.
+• Contributed to front-end development tasks, shaping projects for enhanced functionality and visual appeal.
+• Actively collaborated on integrating front-end components with back-end systems for cohesive and efficient functionality.
+
+Projects:
+CRM-Panel (CRM) | GitHub | Live link (Apr 2024 - Aug 2024)
+• Tech Stack: React.js | Node.js | Express.js | MongoDB | Three.js | Tailwind-CSS | Material-UI | Flowbite
+• Developed a CRM panel with secure user management (JWT and bcrypt.js) and a dynamic UI for managing roles (admin, sub-admin, user) with permissions and CRUD functionalities.
+• Enhanced visualizations with Three.js, utilizing gradients for 3D effects, and integrated modern UI components using Flowbite.
+• Focused on user management and role-based access controls to improve security and user experience.
+
+Trekki (Tour) | GitHub | Live link (Nov 2023 - Dec 2023)
+• Tech Stack: React.js | Node.js | Express.js | MongoDB
+• Designed vacation app with animations, AI chatbot, boosting engagement and simplifying booking.
+• Strengthened data security with JWT and bcrypt for user authentication, ensuring privacy and minimizing risk.
+• Enhanced transaction speed and functionality with RESTful APIs. This cut processing time by 25% and improved overall performance.
+
+QKart (E-commerce) | GitHub | Live link (Jul 2023 - Aug 2023)
+• Tech Stack: React.js | Node.js | Express.js | Material-UI | MongoDB
+• Dynamically loading the products, add to cart and checkout page as per authorization with search bar using debouncing.
+• Added strong user security features with JWT and bcrypt.js, achieving a 30% reduction in login-related issues.
+• Created easy-to-use APIs and linked them with the Payu payment gateway. Made the app accessible worldwide, boosting user access.
+
+Education:
+I.K Gujral Punjab Technical University (Aug 2020 - Jul 2024)
+B.Tech in Computer Science Engineering - Kapurthala, India
+
+Achievements:
+• Secured victory in the iNeuron Hackathon at LPU, Securing iPhone 11 for Our Accomplished Team.
+• Revised 350+ coding challenges in 80 days, showcasing commitment, resilience, and mastery of various coding techniques.

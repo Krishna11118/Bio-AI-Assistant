@@ -36,8 +36,7 @@ try {
 // Read company info from file with error handling
 async function getCompanyInfo() {
   try {
-    const filePath = join(__dirname, '../src/data/amlgo.txt');
-    // const filePath = join(__dirname, '../src/data/company.txt');
+    const filePath = join(__dirname, './data/bio.txt');
     const info = await fs.readFile(filePath, 'utf-8');
     if (!info || info.trim().length === 0) {
       throw new Error('Company info file is empty');
@@ -61,7 +60,7 @@ async function createPrompt(companyInfo, question) {
     ? companyInfo.slice(0, maxCompanyInfoLength) + '...'
     : companyInfo;
 
-  return `You are a helpful AI assistant for AmlgoLabs. Use the following company information to answer questions:
+  return `You are a helpful AI assistant for Krishna's. Use the following company information to answer questions:
 ${truncatedInfo}
 Human Question: ${question}
 Provide a helpful, friendly, and concise response based on the company information above. If the information needed to answer the question isn't in the company details, politely say so and offer to help with something else.
