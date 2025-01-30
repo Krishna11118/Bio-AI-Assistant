@@ -2,6 +2,12 @@
 
 An intelligent AI assistant application that have own knowledge base, built using Gemini apabilities, Node.js for the backend server, and React + Vite for the frontend interface.
 
+<br>
+<h3>Landing Page </h3>
+<div align='center'>
+<img src='https://github.com/Krishna11118/Bio-AI-Assistant/blob/main/example/ss.png'/>
+</div>
+
 ## 🚀 Features
 
 - Real-time AI conversations
