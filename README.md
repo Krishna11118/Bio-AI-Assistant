@@ -1,4 +1,4 @@
-# AI Assistant with LangChain, Node.js, and React
+# AI Assistant with Node.js, and React
 
 An intelligent AI assistant application built using Gemini apabilities, Node.js for the backend server, and React + Vite for the frontend interface.
 
