@@ -1,11 +1,10 @@
 # AI Assistant with LangChain, Node.js, and React
 
-An intelligent AI assistant application built using LangChain for AI capabilities, Node.js for the backend server, and React + Vite for the frontend interface.
+An intelligent AI assistant application built using Gemini apabilities, Node.js for the backend server, and React + Vite for the frontend interface.
 
 ## 🚀 Features
 
 - Real-time AI conversations
-- Natural language processing using LangChain
 - Modern responsive UI built with React
 - Fast development environment with Vite
 - RESTful API backend with Node.js
