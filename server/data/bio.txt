@@ -1,21 +1,19 @@
 Krishna
 Full Stack Developer
-+91-7318378893
 krishnasss365@gmail.com
 linkedin.com/in/krishna365
 github.com/krishna11118
 
 Summary:
-Full Stack Developer with 1+ years of experience specializing in MERN stack and AWS services (EC2, S3, Athena, Glue).
-Proficient in JavaScript, TypeScript, and SQL, with expertise in building scalable, secure applications for MNC clients.
-Hackathon winner, seeking better opportunities to enhance skills and career growth.
+Full Stack Developer with 1+ years of experience in MERN stack, AWS (EC2, S3, Athena, Glue), and machine learning. Proficient in JavaScript, TypeScript, and SQL, with expertise in building scalable applications for MNC clients. Hackathon winner seeking opportunities for career growth.
 
 Skills:
-Languages: JavaScript, Typescript, SQL, Bash, HTML, CSS
-Frameworks/Library: ReactJs, React Native, NextJs, NodeJs, ExpressJs, LangChain, WebSocket, ReduxJs, Tailwind
+Languages: JavaScript, TypeScript, SQL, Bash, HTML, CSS
+Frameworks/Libraries: ReactJs, NextJs, NodeJs, ExpressJs, LangChain, WebSocket, ReduxJs, Tailwind
 Database: MongoDB, MySQL
 DevOps/Tools: Docker, Git, CI/CD (GitHub Actions, Jenkins), Postman, Jira
 Platforms/Cloud: AWS (EC2, S3, Athena, Glue), Redis, Linux, Digital Ocean
+Machine Learning: AI integration, TensorFlow, PyTorch, LangChain
 
 Experience:
 Amlgo Labs (May 2024 - Present)
